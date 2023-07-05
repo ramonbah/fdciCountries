@@ -1,0 +1,6 @@
+framework module Pods_fdciExam {
+  umbrella header "Pods-fdciExam-umbrella.h"
+
+  export *
+  module * { export * }
+}
